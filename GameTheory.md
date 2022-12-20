@@ -53,6 +53,8 @@ Don't Trust &rarr; Minimize cost
 
 *Both decisions are at the Nash Equilibrium*
 
+<br>
+
 ## Nash Equilibrium
 - Not all nash equilibriums are equally desirable (possibility)
 - Certain coordination is recommended to pick a better nash equilibrium
